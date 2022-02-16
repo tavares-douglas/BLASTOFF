@@ -1,0 +1,15 @@
+C:\Users\Douglas\Desktop\INATEL\P9\Blastoff\bin\Debug\net6.0\Blastoff.exe
+C:\Users\Douglas\Desktop\INATEL\P9\Blastoff\bin\Debug\net6.0\Blastoff.deps.json
+C:\Users\Douglas\Desktop\INATEL\P9\Blastoff\bin\Debug\net6.0\Blastoff.runtimeconfig.json
+C:\Users\Douglas\Desktop\INATEL\P9\Blastoff\bin\Debug\net6.0\Blastoff.dll
+C:\Users\Douglas\Desktop\INATEL\P9\Blastoff\bin\Debug\net6.0\Blastoff.pdb
+C:\Users\Douglas\Desktop\INATEL\P9\Blastoff\obj\Debug\net6.0\Blastoff.csproj.AssemblyReference.cache
+C:\Users\Douglas\Desktop\INATEL\P9\Blastoff\obj\Debug\net6.0\Blastoff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas\Desktop\INATEL\P9\Blastoff\obj\Debug\net6.0\Blastoff.AssemblyInfoInputs.cache
+C:\Users\Douglas\Desktop\INATEL\P9\Blastoff\obj\Debug\net6.0\Blastoff.AssemblyInfo.cs
+C:\Users\Douglas\Desktop\INATEL\P9\Blastoff\obj\Debug\net6.0\Blastoff.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\INATEL\P9\Blastoff\obj\Debug\net6.0\Blastoff.dll
+C:\Users\Douglas\Desktop\INATEL\P9\Blastoff\obj\Debug\net6.0\refint\Blastoff.dll
+C:\Users\Douglas\Desktop\INATEL\P9\Blastoff\obj\Debug\net6.0\Blastoff.pdb
+C:\Users\Douglas\Desktop\INATEL\P9\Blastoff\obj\Debug\net6.0\Blastoff.genruntimeconfig.cache
+C:\Users\Douglas\Desktop\INATEL\P9\Blastoff\obj\Debug\net6.0\ref\Blastoff.dll
